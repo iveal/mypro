@@ -1,5 +1,5 @@
 ﻿public class Hello{
 public static void main(String args[]){
- Stystem.out.println("hello iveal");
+ Stystem.out.println("hello iveal.com");
  }
 }
